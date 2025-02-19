@@ -40,13 +40,8 @@ Post-surgical pain management is a critical challenge in healthcare. Our goal wa
 
 ## 🖼️ Results  
 
-Our model achieved **steady loss reduction and Dice coefficient improvement** throughout training. Below are some key results:
 
-| Original Image | Ground Truth | Model Prediction |
-|---------------|-------------|------------------|
-| ![img1](path-to-image) | ![gt1](path-to-image) | ![pred1](path-to-image) |
-| ![img2](path-to-image) | ![gt2](path-to-image) | ![pred2](path-to-image) |
-
+![img1](Output.png) 
 ---
 
 ## 🔮 Future Work  
